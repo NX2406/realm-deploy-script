@@ -12,4 +12,4 @@ Realm 是一款高效的网络中继工具。本脚本旨在通过 Shell 交互�
 
 **方式一：标准流式安装（推荐，适用于快速部署）**
 ```bash
-curl -sSL (https://raw.githubusercontent.com/NX2406/realm-deploy-script/refs/heads/main/realm_deploy.sh) | bash
+curl -sSL https://raw.githubusercontent.com/NX2406/realm-deploy-script/refs/heads/main/realm_deploy.sh | bash
